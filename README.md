@@ -1,2 +1,2 @@
-# TempleatesAdobleXD
-Varios templeates generados con AdobleXD
+# TempleatesAdobeXD
+Varios templeates generados con AdobeXD
